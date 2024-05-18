@@ -3,11 +3,13 @@ import aboutSection from "../Assets/aboutSection.png";
 
 function About() {
   return (
-    <div className="text-white max-w-[1200px] mx-auto my-12" id="about">
+    <div className="text-white max-w-[1200px] mx-auto my-12 " id="about">
       <div className="md:grid md:grid-cols-2 sm:py-16">
         <div className="mt-4 md:mt-0 text-left flex">
           <div className="my-auto mx-6">
-            <h2 className="text-4xl font-bold mb-4 primary-color">About Me</h2>
+            <h2 className="text-4xl font-bold mb-4 primary-color pt-[6.4rem]">
+              About Me
+            </h2>
             <p className="text-base lg:text-lg">
               Hello! I'm Talib Abbas, a passionate frontend developer with a
               keen eye for detail and a drive for crafting immersive digital
