@@ -22,7 +22,7 @@ function About() {
           </div>
         </div>
         <img
-          className="mx-auto py-8 md:py-0"
+          className="mx-auto py-8 md:pt-[6.4rem]"
           src={aboutSection}
           width={300}
           height={300}
