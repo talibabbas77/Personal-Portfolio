@@ -11,7 +11,7 @@ function About() {
               About Me
             </h2>
             <p className="text-base lg:text-lg">
-              Hello! I'm Talib Abbas, a passionate frontend developer with a
+              Hello! Myself Talib Abbas, a passionate frontend developer with a
               keen eye for detail and a drive for crafting immersive digital
               experiences. My journey into frontend development began with a
               fascination for the intersection of technology and creativity.

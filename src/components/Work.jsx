@@ -6,6 +6,8 @@ import proj4 from "../Assets/proj4.jpg";
 import proj5 from "../Assets/proj5.jpg";
 import proj6 from "../Assets/proj6.jpg";
 import proj7 from "../Assets/proj7.jpg";
+import proj8 from "../Assets/gemini.png";
+import proj9 from "../Assets/proj9.png";
 
 function Work() {
   return (
@@ -99,6 +101,32 @@ function Work() {
             <span className="text-2xl font-bold text-white tracking-wider"></span>
             <div className="pt-8 text-center">
               <a href="https://github.com/talibabbas77/YouTube-Clone.git">
+                <button className="text-center rounded-lg px-4 py-3 m-2 bg-black text-white font-bold text-lg">
+                  Live
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center h-[200px] bg-cover relative">
+          <img src={proj8} alt="Project" />
+          <div className="opacity-0 group hover:opacity-100 bg-[black]/70 absolute inset-0 flex flex-col justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"></span>
+            <div className="pt-8 text-center">
+              <a href="https://github.com/talibabbas77/Gemini-Clone.git">
+                <button className="text-center rounded-lg px-4 py-3 m-2 bg-black text-white font-bold text-lg">
+                  Live
+                </button>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center h-[200px] bg-cover relative">
+          <img src={proj9} alt="Project" />
+          <div className="opacity-0 group hover:opacity-100 bg-[black]/70 absolute inset-0 flex flex-col justify-center items-center">
+            <span className="text-2xl font-bold text-white tracking-wider"></span>
+            <div className="pt-8 text-center">
+              <a href="https://github.com/talibabbas77/login_register_form-react.git">
                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-black text-white font-bold text-lg">
                   Live
                 </button>

@@ -16,7 +16,7 @@ function Contact() {
             <a
               href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMgCNGmnhjFBzrcSDrqrbJJcdNBkpKjMCfdjGFxCCPhxMGksHXTQwFJGkCHTdkkFqVWwdsV"
               target="_blank"
-              className="text-white text-6xl hover:text-[#c71610]"
+              className="text-white text-6xl hover:text-[#c71610] transition-all duration-[350ms]"
             >
               <SiGmail />
             </a>
@@ -26,7 +26,7 @@ function Contact() {
             <a
               href="https://linkedin.com/in/talib-abbas-9b0166254"
               target="_blank"
-              className="text-white text-6xl hover:text-[#0077b5]"
+              className="text-white text-6xl hover:text-[#0077b5] transition-all duration-[350ms]"
             >
               <FaLinkedin />
             </a>
@@ -36,7 +36,7 @@ function Contact() {
             <a
               href="https://wa.me/03184189654"
               target="_blank"
-              className="text-white text-6xl hover:text-[#25d33c]"
+              className="text-white text-6xl hover:text-[#25d33c] transition-all duration-[350ms]"
             >
               <FaWhatsapp />
             </a>
@@ -46,7 +46,7 @@ function Contact() {
             <a
               href="https://www.instagram.com/talib_ali77?igsh=MW0zbmxxaHJpNDZqMQ%3D%3D&utm_source=qr"
               target="_blank"
-              className="text-white text-6xl hover:text-[#d62976]"
+              className="text-white text-6xl hover:text-[#d62976] transition-all duration-[350ms]"
             >
               <FaInstagram />
             </a>

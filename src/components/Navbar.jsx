@@ -17,7 +17,7 @@ function Navbar() {
             Talib Abbas
           </h1>
         </a>
-        <ul className="hidden md:flex mr-10">
+        <ul className="hidden md:flex mr-10 ">
           <li className="p-5">
             <a href="#">Home</a>
           </li>
